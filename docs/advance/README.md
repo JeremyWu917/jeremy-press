@@ -8,3 +8,7 @@ meta:
 ---
 
 # 进阶玩法
+
+:::tip
+write here
+:::
