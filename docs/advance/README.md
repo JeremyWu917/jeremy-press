@@ -362,7 +362,7 @@ module.exports = {
 
 ### 个性化按需配置
 
-我们根据需要在 `docs` 目录下创建对应的文件夹，再在对应的文件加下创建 `markdown` 文件即可，如下：
+我们根据需要在 `docs` 目录下创建对应的文件夹，再在对应的文件夹下创建 `markdown` 文件即可，如下：
 
 ![image-20211221105723509](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211221105723509.png)
 
