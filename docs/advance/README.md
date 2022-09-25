@@ -43,7 +43,7 @@ meta:
 - 下载 `NodeJs`，并安装到本地，下一步，下一步,即可安装
 - 检测 `NodeJs` 是否安装成功，可在命令行终端输入 `node -v`，同时查看一下 `npm` 的版本`npm -v `(在安装 `Node` 完后， `npm` 是自动就安装上了的,集成在了 `Node` 运行坏境里)
 
-![image-20211221093205956](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211221093205956.png)
+![image-20211221093205956](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211221093205956.png)
 
 :::warning
 
@@ -364,9 +364,9 @@ module.exports = {
 
 我们根据需要在 `docs` 目录下创建对应的文件夹，再在对应的文件夹下创建 `markdown` 文件即可，如下：
 
-![image-20211221105723509](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211221105723509.png)
+![image-20211221105723509](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211221105723509.png)
 
-![image-20211221105757435](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211221105757435.png)
+![image-20211221105757435](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211221105757435.png)
 
 对应关系如下：
 

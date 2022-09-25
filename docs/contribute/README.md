@@ -15,11 +15,11 @@ meta:
 
 ### 支付宝赞赏
 
-<img src="https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/Alipay.png" width="200" alt="支付宝赞赏码">
+<img src="https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/Alipay.png" width="200" alt="支付宝赞赏码">
 
 ### 微信赞赏
 
-<img src="https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/Wechat.png" width="200" alt="微信赞赏码">
+<img src="https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/Wechat.png" width="200" alt="微信赞赏码">
 
 :::tip
 赞赏完成后，请联系我们上赞助墙哦 :coffee:

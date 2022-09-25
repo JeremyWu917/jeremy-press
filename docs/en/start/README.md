@@ -31,5 +31,5 @@ You can enjoin the home page at url `http://localhost:8080/jeremy-press/` :coffe
 
 ## Home page preview
 
-![image-20211221084953975](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211221084953975.png)
+![image-20211221084953975](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211221084953975.png)
 
