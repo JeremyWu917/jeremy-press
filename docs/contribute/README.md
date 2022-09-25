@@ -19,7 +19,7 @@ meta:
 
 ### 微信赞赏
 
-<img src="https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/Wechat.png" width="200" alt="微信赞赏码">
+<img src="https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/wechat.png" width="200" alt="微信赞赏码">
 
 :::tip
 赞赏完成后，请联系我们上赞助墙哦 :coffee:
